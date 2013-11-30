@@ -44,128 +44,191 @@ TextureImporter:
     - name: game-sprites_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 80
+        x: 4
+        y: 460
         width: 23
         height: 422
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_1
       rect:
         serializedVersion: 2
-        x: 114
-        y: 456
-        width: 48
-        height: 48
+        x: 115
+        y: 835
+        width: 47
+        height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_2
       rect:
         serializedVersion: 2
-        x: 176
-        y: 456
-        width: 49
-        height: 48
+        x: 178
+        y: 835
+        width: 47
+        height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_3
       rect:
         serializedVersion: 2
-        x: 239
-        y: 456
-        width: 48
-        height: 48
+        x: 240
+        y: 835
+        width: 47
+        height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_4
       rect:
         serializedVersion: 2
-        x: 114
-        y: 381
-        width: 61
+        x: 116
+        y: 759
+        width: 59
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_5
       rect:
         serializedVersion: 2
-        x: 189
-        y: 381
-        width: 61
+        x: 191
+        y: 759
+        width: 59
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_6
       rect:
         serializedVersion: 2
-        x: 264
-        y: 381
-        width: 61
+        x: 266
+        y: 759
+        width: 59
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_7
       rect:
         serializedVersion: 2
-        x: 88
-        y: 306
+        x: 89
+        y: 683
         width: 113
-        height: 35
+        height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_8
       rect:
         serializedVersion: 2
-        x: 225
-        y: 306
-        width: 114
-        height: 35
+        x: 227
+        y: 683
+        width: 112
+        height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_9
       rect:
         serializedVersion: 2
-        x: 363
-        y: 306
+        x: 364
+        y: 683
         width: 113
-        height: 35
+        height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_10
       rect:
         serializedVersion: 2
-        x: 101
-        y: 181
-        width: 86
+        x: 104
+        y: 559
+        width: 84
         height: 85
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_11
       rect:
         serializedVersion: 2
-        x: 218
-        y: 212
-        width: 116
+        x: 217
+        y: 592
+        width: 117
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_12
       rect:
         serializedVersion: 2
         x: 76
-        y: 2
+        y: 382
         width: 162
         height: 164
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
     - name: game-sprites_13
       rect:
         serializedVersion: 2
         x: 276
-        y: 17
+        y: 397
         width: 162
         height: 165
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
+    - name: game-sprites_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 297
+        width: 112
+        height: 37
+      alignment: 4
+      pivot: {x: 0, y: .5}
+    - name: game-sprites_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 277
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: game-sprites_16
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 289
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: game-sprites_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 193
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: game-sprites_18
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 197
+        width: 193
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: game-sprites_19
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 197
+        width: 193
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: game-sprites_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 22
+        width: 352
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
   spritePackingTag: 
   userData: 
