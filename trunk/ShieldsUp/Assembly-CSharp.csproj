@@ -51,7 +51,9 @@
      <Compile Include="Assets\Scripts\EnemyCannonBall.cs" />
      <Compile Include="Assets\Scripts\FriendlyCannon.cs" />
      <Compile Include="Assets\Scripts\FriendlyCannonBall.cs" />
+     <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\Gun.cs" />
+     <Compile Include="Assets\Scripts\Messages.cs" />
      <Compile Include="Assets\Scripts\PausePlay.cs" />
      <Compile Include="Assets\Scripts\RestartLevel.cs" />
      <Compile Include="Assets\Scripts\ReturnCannonBall.cs" />

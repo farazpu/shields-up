@@ -30,7 +30,7 @@ public class EnemyCannon : MonoBehaviour {
 	}
 
 	public void TakeDemage() {
-		health -= 20;
+		health -= 100;
 		Score.score += 20;
 
 	}
