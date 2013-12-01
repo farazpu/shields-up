@@ -7,6 +7,8 @@ public class Messages : MonoBehaviour {
 	public GameObject youWinSplash;
 	public GameObject youLoseSplash;
 	public GameObject draw;
+	public GameObject paused;
+
 
 
 	public void ShowLevelSplash(int level) {
@@ -26,6 +28,7 @@ public class Messages : MonoBehaviour {
 		youWinSplash.SetActive (false);
 		youLoseSplash.SetActive (false);
 		draw.SetActive (false);
+		paused.SetActive (false);
 	}
 
 	public void ShowYouWin() {
@@ -35,9 +38,13 @@ public class Messages : MonoBehaviour {
 	public void ShowYouLose() {
 		youLoseSplash.SetActive (true);
 	}
-
+	
 	public void ShowDraw() {
 		draw.SetActive(true); 
+	}
+	
+	public void ShowPaused() {
+		paused.SetActive(true); 
 	}
 
 	// Use this for initialization

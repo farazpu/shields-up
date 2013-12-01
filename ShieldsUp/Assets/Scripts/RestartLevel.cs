@@ -5,7 +5,9 @@ public class RestartLevel : MonoBehaviour {
 
 	public void OnMouseUp() {
 
-		Application.LoadLevel (Application.loadedLevelName);
-		Score.ResetScore ();
+		if (Time.timeScale > 0) {
+			Application.LoadLevel (Application.loadedLevelName);
+			Score.ResetScore ();
+		}
 	}
 }
